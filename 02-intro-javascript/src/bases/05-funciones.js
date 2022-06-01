@@ -13,23 +13,23 @@ const saludar4 = () => `hola mundo`;
 
 const getUser = () =>
     ({
-        uid : 'ABC123',
+        uid: 'ABC123',
         username: 'El_tramas'
     });
 //tarea 
 //1. Transformar a funcion de flecha
 //2. tiene que retornar un objeto implisito
 function getUsuarioActivo(nombre) {
-    return{
-        uid:'ABC123456',
-        username:'Juan123'
+    return {
+        uid: 'ABC123456',
+        username: 'Juan123'
     }
 };
 
 //Resultado
 const GetUsuarioActivo = (nombre) => ({
-        uid:'ABC123456',
-        username:nombre
+    uid: 'ABC123456',
+    username: nombre
 });
 
 
