@@ -8,6 +8,6 @@
 
 export const HelloWordApp = () => {
   return (
-    <h1>Hello Word App</h1>
+    <h1>My first Component</h1>
   );
 }

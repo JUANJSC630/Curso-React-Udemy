@@ -1,0 +1,21 @@
+html,
+body {
+    background-color: #21232A;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+}
+
+button {
+    padding: 10px;
+    font-size: 1.2rem;
+    width: 100px;
+    height: 50px;
+    transition: 1s;
+}
+
+button:hover {
+    transition: 1s;
+    background-color: #21232A;
+    color: white;
+}
